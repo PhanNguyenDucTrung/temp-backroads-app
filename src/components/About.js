@@ -20,7 +20,7 @@ const About = () => {
                         temporibus explicabo dolorum sapiente odio unde dolor?
                     </p>
                     <a href='#' className='btn'>
-                        read more SHOWCASE WARNING BUILD FAIL
+                        read more
                     </a>
                 </article>
             </div>
